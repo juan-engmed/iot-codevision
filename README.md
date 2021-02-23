@@ -1,3 +1,3 @@
-# IoT Projects with Software CodeVision
+# IoT Projects with Software CodeVision - SimulIDE
 
 ---
